@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     
-        //mostre a quantidade de números entre 1000 e 2000 e que, quando divididos por 11, produzam resto igual a 5. 
+        //mostre a quantidade de nÃºmeros entre 1000 e 2000 e que, quando divididos por 11, produzam resto igual a 5. 
 
         inteiro numero, contador = 1000, dividido = 0, resto = 5
 
@@ -17,6 +17,6 @@ programa {
         }
         escreva("divididods por 11: ", )
 
-        
+        //gau
   }
 }
